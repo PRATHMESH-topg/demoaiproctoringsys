@@ -1,5 +1,4 @@
 # AI-Powered Smart Proctoring System (Offline Demo)
-# Compatible with Python 3.10.9 on Windows 64-bit
 
 numpy
 opencv-python
